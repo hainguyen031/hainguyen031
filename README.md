@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 - :school: I'm graduated in CodeGym Sai Gon Center
-- 🔭 I’m currently working on ... Not working
+- 🔭 I’m currently working on ... Freelance
 - 🌱 I’m currently learning ... Java and ReactJs
 - 👯 I’m looking to collaborate on ... Any of project
 - 💬 Ask me about ... What ever.... :laughing:
