@@ -1,7 +1,6 @@
 ### Hi, I'm Hai Nguyen 👋
 
 Here are some ideas to get you started:
-- :school: I'm graduated in CodeGym Sai Gon Center
 - 🔭 I’m currently working on ... Freelance
 - 🌱 I’m currently learning ... Java and ReactJs
 - 👯 I’m looking to collaborate on ... Any of project
